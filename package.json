@@ -1,0 +1,19 @@
+{
+  "name": "js-td",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IHW-TS/Js-TD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IHW-TS/Js-TD/issues"
+  },
+  "homepage": "https://github.com/IHW-TS/Js-TD#readme"
+}
